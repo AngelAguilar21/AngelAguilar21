@@ -23,12 +23,6 @@ src="https://img.shields.io/github/followers/AngelAguilar21?logo=github&style=fo
 </p>
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=AngelAguilar21&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-.
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AngelAguilar21"><img src="https://github-readme-stats.vercel.app/api?username=AngelAguilar21&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelAguilar21's GitHub stats" /></a>
