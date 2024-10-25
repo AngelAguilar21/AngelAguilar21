@@ -1,48 +1,39 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Condor Coders
 
-![Banner de Condor Coders](banner-github-condor-coders.png)
+![Banner de Imagen](imagen.png)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@condorcoders)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@condorcoders)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/condorcoders/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/condorcoders/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ah7zYsBU)
 
-Comunidad dedicada a aprender y compartir conocimientos en programación y tecnología. Estamos aquí para aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angel_21_ac/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-aguilar-contreras-844b0925a/)
 
-## Tecnologias 💻
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br/>
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+Estudiante de Ingeniería de Tecnologías de Información y Sistemas | ESAN
+------------------------------------------------------------------------
+👋 ¡Hola! Soy Angel, estudiante de Ingeniería de Tecnologías de Información y Sistemas en ESAN, con un interés especial en el desarrollo back-end. Me encanta trabajar con Java y estoy aprendiendo a construir sistemas sólidos y escalables. Tengo experiencia básica en tecnologías como Spring Boot, SQL (SQL server, MySQL). Además, estoy aprendiendo sobre Docker para el despliegue de aplicaciones, análisis de datos y ciberseguridad. También he trabajado con Python y C++ en algunos proyectos. Estoy siempre dispuesto a aprender y colaborar en proyectos donde pueda aplicar y seguir desarrollando mis habilidades.
 
-## Las estadisticas del repositorio
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 
-## Mis ultimos videos de Youtube
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Creamos un portafolio dev con elementos 3D 🧊](https://ytcards.demolab.com/?id=Mv7nnR-x4dc&title=Creamos+un+portafolio+dev+con+elementos+3D+%F0%9F%A7%8A&lang=en&timestamp=1729812857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Creamos un portafolio dev con elementos 3D 🧊")](https://www.youtube.com/watch?v=Mv7nnR-x4dc)
-[![Un vistazo a mi finde en el museo](https://ytcards.demolab.com/?id=4uRXZdb5IXo&title=Un+vistazo+a+mi+finde+en+el+museo&lang=en&timestamp=1728940014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Un vistazo a mi finde en el museo")](https://www.youtube.com/watch?v=4uRXZdb5IXo)
-[![Mi experiencia en el Museo de la Imagen en Movimiento y Videojuegos de Australia 📽🕹🦘](https://ytcards.demolab.com/?id=zST3Z-1_4yE&title=Mi+experiencia+en+el+Museo+de+la+Imagen+en+Movimiento+y+Videojuegos+de+Australia+%F0%9F%93%BD%F0%9F%95%B9%F0%9F%A6%98&lang=en&timestamp=1728936669&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mi experiencia en el Museo de la Imagen en Movimiento y Videojuegos de Australia 📽🕹🦘")](https://www.youtube.com/watch?v=zST3Z-1_4yE)
-[![¡Continuamos el proyecto en Twitch!](https://ytcards.demolab.com/?id=OhgQdr0YHDA&title=%C2%A1Continuamos+el+proyecto+en+Twitch%21&lang=en&timestamp=1728318219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¡Continuamos el proyecto en Twitch!")](https://www.youtube.com/watch?v=OhgQdr0YHDA)
-[![Charlamos y continuamos con proyecto de chat Twitch 🎮](https://ytcards.demolab.com/?id=vEqwws8mGSQ&title=Charlamos+y+continuamos+con+proyecto+de+chat+Twitch+%F0%9F%8E%AE&lang=en&timestamp=1728104518&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Charlamos y continuamos con proyecto de chat Twitch 🎮")](https://www.youtube.com/watch?v=vEqwws8mGSQ)
-[![¡Es mi cumple! Charlamos y hacemos la encuesta de State of HTML](https://ytcards.demolab.com/?id=NzkVsjDDHeY&title=%C2%A1Es+mi+cumple%21+Charlamos+y+hacemos+la+encuesta+de+State+of+HTML&lang=en&timestamp=1727317944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¡Es mi cumple! Charlamos y hacemos la encuesta de State of HTML")](https://www.youtube.com/watch?v=NzkVsjDDHeY)
-<!-- END YOUTUBE-CARDS -->
+* 🌍  Soy de Perú
+* ✉️  Contactame [angel789456123jesus@gmail.com](mailto:angel789456123jesus@gmail.com)
+* 🧠  Aprendiendo Desarrollo Wed, Cloud y Análisis de datos
+
+<a href="https://www.github.com/AngelAguilar21" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AngelAguilar21?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AngelAguilar21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=AngelAguilar21&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
+.
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AngelAguilar21"><img src="https://github-readme-stats.vercel.app/api?username=AngelAguilar21&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelAguilar21's GitHub stats" /></a>
+
+<a href="http://www.github.com/AngelAguilar21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelAguilar21&stroke=ef4444&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ef4444&currStreakLabel=ffffff&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+
+<a href="https://github.com/AngelAguilar21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAguilar21&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
